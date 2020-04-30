@@ -1,0 +1,34 @@
+.bg-black{
+	background-color: black;
+
+}
+img{
+	width: 100%;
+	height: 100%;
+}
+.font-div{
+	width: 100%;
+}
+.bg-pink{
+	background-color: white;
+}
+@media only screen and (min-width: 794px){
+	.font-div{
+		padding:  50px 0px!important;
+	}
+}
+.copyright{
+
+  font-size: 20px;
+}
+
+@media only screen and (min-width: 444px){
+	#width{
+		width:80%;
+	}
+}
+
+
+
+
+
