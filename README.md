@@ -1,2 +1,2 @@
 # portfolio
-I designed this.Try Using your Own creativity and don't Copy the exact code.
+I made this Portfolio using html,css,bootstrap and js.
